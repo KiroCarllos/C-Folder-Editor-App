@@ -1,0 +1,16 @@
+E:\.Net Apps\Folder Editor App\Folder Editor App\bin\Debug\net9.0-windows\Folder Editor App.exe
+E:\.Net Apps\Folder Editor App\Folder Editor App\bin\Debug\net9.0-windows\Folder Editor App.deps.json
+E:\.Net Apps\Folder Editor App\Folder Editor App\bin\Debug\net9.0-windows\Folder Editor App.runtimeconfig.json
+E:\.Net Apps\Folder Editor App\Folder Editor App\bin\Debug\net9.0-windows\Folder Editor App.dll
+E:\.Net Apps\Folder Editor App\Folder Editor App\bin\Debug\net9.0-windows\Folder Editor App.pdb
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder_Editor_App.Form1.resources
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.csproj.GenerateResource.cache
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.AssemblyInfoInputs.cache
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.AssemblyInfo.cs
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.csproj.CoreCompileInputs.cache
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.dll
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\refint\Folder Editor App.dll
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.pdb
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\Folder Editor App.genruntimeconfig.cache
+E:\.Net Apps\Folder Editor App\Folder Editor App\obj\Debug\net9.0-windows\ref\Folder Editor App.dll
